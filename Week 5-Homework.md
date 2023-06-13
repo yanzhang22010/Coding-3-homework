@@ -31,11 +31,13 @@ The number of modified kernels and the number of layers are modified on the basi
 
 #### Results after the second modification
 
-<img width="379" alt="截屏2023-06-07 09 21 05" src="https://github.com/yanzhang22010/Coding-3-homework/assets/119860662/5584e7ca-d63d-4d2b-b8ba-1dbabdb43393">
+<img width="352" alt="截屏2023-06-07 09 23 02" src="https://github.com/yanzhang22010/Coding-3-homework/assets/119860662/1007a7d6-3fa7-4c72-b3c3-6cca8dcc6557">
 
 There was a significant effect on the results. The images are clearer and more realistic.
 
 ### (More difficult) Training this GAN on a new dataset. 
+
+<img width="379" alt="截屏2023-06-07 09 21 05" src="https://github.com/yanzhang22010/Coding-3-homework/assets/119860662/5584e7ca-d63d-4d2b-b8ba-1dbabdb43393">
 
 <img width="634" alt="1" src="https://github.com/yanzhang22010/Coding-3-homework/assets/119860662/5fa0f2ed-6ef2-44b2-ab84-40c5f0e141f0">
 <img width="633" alt="2" src="https://github.com/yanzhang22010/Coding-3-homework/assets/119860662/3c55acf0-d62b-4f55-8e18-bb3fd77be30b">
